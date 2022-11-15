@@ -1,0 +1,20 @@
+.Person {
+    text-align: center;
+    border: 1px solid grey;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgba(211, 211, 211, 0.573);
+    border-radius: 8px;
+}
+
+.Person input {
+    padding: 5px;
+    border-radius: 10px;
+    border: 0.5px;
+}
+
+/* button {
+    
+} */
